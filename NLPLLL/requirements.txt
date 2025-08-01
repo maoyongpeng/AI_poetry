@@ -1,0 +1,7 @@
+dash==2.16.1
+feffery_antd_components==0.2.10
+matplotlib==3.10.5
+numpy==2.3.2
+opencc_python_reimplemented==0.1.7
+torch==2.0.1
+tqdm==4.66.5
