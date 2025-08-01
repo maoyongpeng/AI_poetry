@@ -1,12 +1,16 @@
 基于Transformer的唐诗宋词生成器 作词家   Web界面(Dash构建)
 
-## 直接使用 安装依赖后 运行Webshow.py
+## 直接使用 
+安装依赖后 运行Webshow.py
 
 
 
 ### A.界面展示
 
 ![](./img/show.png)
+
+以“人工智能” 作藏头诗 效果图如下：
+![](./img/000.png)
 
 ### B.功能支持：
 
